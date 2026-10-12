@@ -236,7 +236,7 @@ The reference for each method is the same algorithm with h = 1e-4. For HMC that 
 
 ---
 
-## 6. Extra Credit: Normalizing Flow Generative Model
+## 6.Normalizing Flow Generative Model
 
 **Training data.** HMC generates 50,000 samples:
 
